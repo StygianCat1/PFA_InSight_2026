@@ -11,13 +11,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf4c0c62-cc4f-4d52-b659-736753afaf90" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PFA_InSight/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PFA_InSight/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Blueprints/CharacterBlueprint/BP_FirstPersonCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/CharacterBlueprint/BP_FirstPersonCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/ImportantPart/BP_FirstPersonGameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/ImportantPart/BP_FirstPersonGameMode.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Level/Lvl_FirstPerson.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Level/Lvl_FirstPerson.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/Menu_UI/Multi/WBP_FindSession.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/Menu_UI/Multi/WBP_FindSession.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/Menu_UI/Multi/WBP_SessionMenu.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/Menu_UI/Multi/WBP_SessionMenu.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Level/Lvl_FirstPerson/D/I0/A3XCBB8C9QOSTIJKNYVSTC.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/ImportantPart/BP_FirstPersonPlayerController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/ImportantPart/BP_FirstPersonPlayerController.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Other/BP_Switcher.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Other/BP_Switcher.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Level/Lvl_FirstPerson/3/M1/FDHDETP8L7YW217HUEVFP2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Level/Lvl_FirstPerson/3/M1/FDHDETP8L7YW217HUEVFP2.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Level/Lvl_FirstPerson/A/NA/Y0G8WRHIOBLUS2BYW50O5J.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Level/Lvl_FirstPerson/A/NA/Y0G8WRHIOBLUS2BYW50O5J.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Level/Lvl_FirstPerson/B/72/JSKB3IL1WKDTKI3KXKXD1F.uasset" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/PFA_InSight.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/PFA_InSight.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/PFA_InSight/PFA_InSight.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/PFA_InSight/PFA_InSight.Build.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +31,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../Program Files/Epic Games/UE_5.6/Engine/Plugins/Developer/Concert/ConcertApp/MultiUserClient/Source/MultiUserClient/Private/Replication/Muting/MuteStateManager.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../Program Files/Epic Games/UE_5.6/Engine/Source/Runtime/Engine/Classes/GameFramework/Character.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../Program Files/Epic Games/UE_5.6/Engine/Source/Runtime/Engine/Classes/GameFramework/GameModeBase.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../Program Files/Epic Games/UE_5.6/Engine/Source/Runtime/Engine/Private/Character.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../Program Files/Epic Games/UE_5.6/Engine/Source/Runtime/Engine/Private/GameMode.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../Program Files/Epic Games/UE_5.6/Engine/Source/Runtime/Engine/Private/GameModeBase.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/PFA_InSight/Private/CapacityAttributeSet.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/PFA_InSight/Public/CapacityAttributeSet.h" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -42,6 +50,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "C++ Project.PFA_InSight.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
@@ -474,6 +483,7 @@
       <updated>1780310296038</updated>
       <workItem from="1780310297497" duration="35000" />
       <workItem from="1780310784848" duration="2517000" />
+      <workItem from="1780392578188" duration="3080000" />
     </task>
     <servers />
   </component>
