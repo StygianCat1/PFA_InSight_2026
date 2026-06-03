@@ -13,14 +13,11 @@
     <list default="true" id="bf4c0c62-cc4f-4d52-b659-736753afaf90" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PFA_InSight/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PFA_InSight/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_Porte.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_Porte.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Blueprints/CharacterBlueprint/BP_FirstPersonCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/CharacterBlueprint/BP_FirstPersonCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/ImportantPart/BP_FirstPersonPlayerController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/ImportantPart/BP_FirstPersonPlayerController.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Other/BP_Switcher.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Other/BP_Switcher.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Level/Lvl_FirstPerson/3/M1/FDHDETP8L7YW217HUEVFP2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Level/Lvl_FirstPerson/3/M1/FDHDETP8L7YW217HUEVFP2.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Level/Lvl_FirstPerson/A/NA/Y0G8WRHIOBLUS2BYW50O5J.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Level/Lvl_FirstPerson/A/NA/Y0G8WRHIOBLUS2BYW50O5J.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Level/Lvl_FirstPerson/B/72/JSKB3IL1WKDTKI3KXKXD1F.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PFA_InSight.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/PFA_InSight.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Other/BPI_Interact.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Other/BPI_Interact.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/PFA_InSight/PFA_InSight.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/PFA_InSight/PFA_InSight.Build.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/PFA_InSight/Public/CapacityAttributeSet.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/PFA_InSight/Public/CapacityAttributeSet.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +37,9 @@
     <setting file="file://$PROJECT_DIR$/Source/PFA_InSight/Private/CapacityAttributeSet.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/PFA_InSight/Public/CapacityAttributeSet.h" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="Toolset" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -48,19 +48,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "C++ Project.PFA_InSight.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C++ Project.PFA_InSight.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="C++ Project.PFA_InSight">
     <configuration name="PFA_InSight" type="CppProject" factoryName="C++ Project">
       <configuration_1>
@@ -484,6 +484,7 @@
       <workItem from="1780310297497" duration="35000" />
       <workItem from="1780310784848" duration="2517000" />
       <workItem from="1780392578188" duration="3080000" />
+      <workItem from="1780518128423" duration="1254000" />
     </task>
     <servers />
   </component>
