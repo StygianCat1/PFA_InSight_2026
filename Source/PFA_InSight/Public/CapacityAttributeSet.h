@@ -24,17 +24,17 @@ class PFA_INSIGHT_API UCapacityAttributeSet : public UAttributeSet
 	
 	UPROPERTY()
 	FGameplayAttributeData Health = 100.0f;
-	ATTRIBUTE_ACCESSORS(UQuodHealthAttributeSet, Health)
+	ATTRIBUTE_ACCESSORS(UCapacityAttributeSet, Health)
 
 	UPROPERTY()
 	FGameplayAttributeData Insight = 0.0f;
-	ATTRIBUTE_ACCESSORS(UQuodHealthAttributeSet, InSight)
+	ATTRIBUTE_ACCESSORS(UCapacityAttributeSet, Insight)
 
 	UPROPERTY()
 	FGameplayAttributeData CoolDown = 60.0f;
-	ATTRIBUTE_ACCESSORS(UQuodHealthAttributeSet, CoolDown)
+	ATTRIBUTE_ACCESSORS(UCapacityAttributeSet, CoolDown)
 
 	UPROPERTY()
 	FGameplayAttributeData Duration = 15.0f;
-	ATTRIBUTE_ACCESSORS(UQuodHealthAttributeSet, Duration)
+	ATTRIBUTE_ACCESSORS(UCapacityAttributeSet, Duration)
 };
