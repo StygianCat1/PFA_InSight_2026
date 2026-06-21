@@ -11,13 +11,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf4c0c62-cc4f-4d52-b659-736753afaf90" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PFA_InSight/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PFA_InSight/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_Porte.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_Porte.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Animations/BaseOfAnim/Unarmed/ABP_Unarmed.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Animations/BaseOfAnim/Unarmed/ABP_Unarmed.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Animations/MannequinsRigs/CR_Mannequin_FootIK.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Animations/MannequinsRigs/CR_Mannequin_FootIK.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/ArtMeshes/Character/ABP_Victoria.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/ArtMeshes/Character/ABP_Victoria.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/ArtMeshes/Character/ABP_Walter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/ArtMeshes/Character/ABP_Walter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/ArtMeshes/Character/Animation/Animations_Victoria/AN_Victoria_CrouchedToStanding_Transition.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/ArtMeshes/Character/Animation/Animations_Victoria/AN_Victoria_CrouchedWalking.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/ArtMeshes/Character/Animation/Animations_Victoria/AN_Victoria_PickingUp.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/ArtMeshes/Character/Animation/Animations_Victoria/AN_Victoria_RunForward.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/ArtMeshes/Character/Animation/Animations_Victoria/AN_Victoria_StandingToCrouch.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/ArtMeshes/Character/Animation/Animations_Victoria/AN_Victoria_Walk.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/ArtMeshes/Character/Animation/Animations_Walter/AN_Walter_ButtonPushing.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/ArtMeshes/Character/Animation/Animations_Walter/AN_Walter_CrouchedToStanding_Transition.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/ArtMeshes/Character/Animation/Animations_Walter/AN_Walter_CrouchedWalking.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/ArtMeshes/Character/Animation/Animations_Walter/AN_Walter_CrouchingIdle.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/ArtMeshes/Character/Animation/Animations_Walter/AN_Walter_CrouchingIdle.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/ArtMeshes/Character/Animation/Animations_Walter/AN_Walter_DrunkRun.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/ArtMeshes/Character/Animation/Animations_Walter/AN_Walter_Idle.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/ArtMeshes/Character/Animation/Animations_Walter/AN_Walter_Idle.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/ArtMeshes/Character/Animation/Animations_Walter/AN_Walter_StandingToCrouched_Transition.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/ArtMeshes/Character/Animation/Animations_Walter/AN_Walter_VaultOverBox.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/ArtMeshes/Character/Animation/Animations_Walter/AN_Walter_Walk.uasset" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Blueprints/CharacterBlueprint/BP_FirstPersonCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/CharacterBlueprint/BP_FirstPersonCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Other/BPI_Interact.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Other/BPI_Interact.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/PFA_InSight/PFA_InSight.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/PFA_InSight/PFA_InSight.Build.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/PFA_InSight/Public/CapacityAttributeSet.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/PFA_InSight/Public/CapacityAttributeSet.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/CharacterBlueprint/BP_VictoriaCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/CharacterBlueprint/BP_VictoriaCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Level/Lvl_FirstPerson/A/TP/QWP6EWIIYGX6104FHSY9Y9.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Level/Lvl_FirstPerson/A/TP/QWP6EWIIYGX6104FHSY9Y9.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PFA_InSight.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/PFA_InSight.sln.DotSettings.user" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +50,6 @@
     <setting file="file://$PROJECT_DIR$/../../../Program Files/Epic Games/UE_5.6/Engine/Source/Runtime/Engine/Private/Character.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../Program Files/Epic Games/UE_5.6/Engine/Source/Runtime/Engine/Private/GameMode.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../Program Files/Epic Games/UE_5.6/Engine/Source/Runtime/Engine/Private/GameModeBase.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Source/PFA_InSight/Private/CapacityAttributeSet.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/PFA_InSight/Public/CapacityAttributeSet.h" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
@@ -485,6 +500,7 @@
       <workItem from="1780310784848" duration="2517000" />
       <workItem from="1780392578188" duration="3080000" />
       <workItem from="1780518128423" duration="1254000" />
+      <workItem from="1781914894027" duration="45000" />
     </task>
     <servers />
   </component>
