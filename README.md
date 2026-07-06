@@ -1,8 +1,8 @@
 # Insight (PFA)
 
-## Team Composition:
+## Team Credits:
 
-###Game Designer
+### Game Designer
 - [CHANUT Thibault](https://www.linkedin.com/in/thibault-chanut-77035238a/) - Creative Director / Tech Design / Programming
 - [FERON Baptiste](https://www.linkedin.com/in/baptiste-feron-51232b264/) - Narrative Design / Sound Design
 - [GIMENEZ Matthias](https://www.linkedin.com/in/matthias-gimenez-583615375/) - Level Design / Sound Design
@@ -11,7 +11,7 @@
 - [ROYER Pierre](https://www.linkedin.com/in/pierre-royer-0b0727357/) - System Design / UI Design/Tech
 
 
-###Game Artist
+### Game Artist
 - [ABRAM Nicolas](https://www.linkedin.com/in/nicolas-abram-38b1433a9/) - Tech Artist
 - [BIGOURAUX Naëlle](https://www.linkedin.com/in/na%C3%ABlle-bigouraux-4237363a3/) - Character Artist
 - [BRUN Valentin](https://www.linkedin.com/in/valentin-brun-495426393/) - Concept Artist
